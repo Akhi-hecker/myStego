@@ -1,5 +1,5 @@
-stego py need cv2 lib
+Need to run Python3
 
-solution 
+stego py need cv2 lib
 
 pip install cv2
